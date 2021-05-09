@@ -20,7 +20,7 @@ function About() {
         </p>
       </div>
       <div>
-        <h2>Skill:</h2>
+        <h2 className={classes.padding2}>Skill:</h2>
         <div className={classes.skills}>
           <div className={classes.skillCard}>
             <h3>Game Engin</h3>
@@ -46,18 +46,20 @@ function About() {
         </div>
       </div>
       <div>
-        <h2>Education:</h2>
-        <h3>
-          University of Maryland Baltimore County /{" "}
-          <span className={classes.light}>
-            Bachelor of Science in Computer Science
-          </span>
-        </h3>
-        <p>September 2017 - May 2021: Baltimore, Maryland</p>
-        <p>GPA: 3.817</p>
+        <h2 className={classes.padding2}>Education:</h2>
+        <div className={classes.padding3}>
+          <h3>
+            University of Maryland Baltimore County /{" "}
+            <span className={classes.light}>
+              Bachelor of Science in Computer Science
+            </span>
+          </h3>
+          <p>September 2017 - May 2021: Baltimore, Maryland</p>
+          <p>GPA: 3.817</p>
+        </div>
       </div>
       <div className={classes.project}>
-        <h2>Project:</h2>
+        <h2 className={classes.padding2}>Project:</h2>
         <ProjectPageCard />
       </div>
     </div>

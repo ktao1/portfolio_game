@@ -17,9 +17,19 @@
 }
 
 .intro {
+  padding-left: 3vw;
+}
+
+.padding2 {
+  padding-left: 2vw;
+}
+
+.padding3 {
+  padding-left: 3vw;
 }
 
 .skills {
+  padding-left: 3vw;
   display: flex;
   justify-content: flex-start;
 }
