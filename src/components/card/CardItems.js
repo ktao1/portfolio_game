@@ -1,6 +1,6 @@
 export const CardItems = [
   {
-    title: "Random Maza Generator",
+    title: "Random Maze Generator",
     thumbnail: "/portfolio_game/thumbnail/project1-img.png",
     url: "/Proect",
     details: "https://youtu.be/AXeDOf7mHlY",
