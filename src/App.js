@@ -9,13 +9,13 @@ function App() {
   return (
     <Layout>
       <Switch>
-        <Route path="/" exact>
+        <Route path="/portfolio_game" exact>
           <Home />
         </Route>
-        <Route path="/Project" exact>
+        <Route path="/portfolio_game/Project" exact>
           <Project />
         </Route>
-        <Route path="/About" exact>
+        <Route path="/portfolio_game/About" exact>
           <About />
         </Route>
       </Switch>
