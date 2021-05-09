@@ -13,7 +13,7 @@ function Navebar() {
 
   return (
     <nav className="navbar">
-      <Link to="/" className="navbar-logo">
+      <Link to="/portfolio_game" className="navbar-logo">
         Portfolio
         <i class="fas fa-gamepad"></i>
       </Link>

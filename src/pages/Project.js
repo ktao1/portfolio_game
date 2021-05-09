@@ -1,7 +1,10 @@
+import "./Project.css";
+import ProjectPageCard from "../components/card/ProjectPageCard";
+
 function Project() {
   return (
-    <div>
-      <p>This is Project</p>
+    <div className="container">
+      <ProjectPageCard />
     </div>
   );
 }

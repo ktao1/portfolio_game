@@ -1,7 +1,7 @@
 export const CardItems = [
   {
     title: "Random Maza Generator",
-    thumbnail: "/thumbnail/project1-img.png",
+    thumbnail: "/portfolio_game/thumbnail/project1-img.png",
     url: "/Proect",
     details: "https://youtu.be/AXeDOf7mHlY",
     discription:
@@ -9,7 +9,7 @@ export const CardItems = [
   },
   {
     title: "Boid behavioral model",
-    thumbnail: "/thumbnail/project2-img.png",
+    thumbnail: "/portfolio_game/thumbnail/project2-img.png",
     url: "/Proect",
     details: "https://www.youtube.com/watch?v=H7l-RaBRygU",
     discription:
@@ -17,7 +17,7 @@ export const CardItems = [
   },
   {
     title: "Sword Shibe",
-    thumbnail: "/thumbnail/swordShibe.png",
+    thumbnail: "/portfolio_game/thumbnail/swordShibe.png",
     url: "/Proect",
     details: "https://umbc.voicethread.com/myvoice/thread/17395424/102590590",
     discription:
@@ -25,7 +25,7 @@ export const CardItems = [
   },
   {
     title: "Mitchell's best candidate algorithm (Blueprint Plugin)",
-    thumbnail: "/thumbnail/project3-img.png",
+    thumbnail: "/portfolio_game/thumbnail/project3-img.png",
     url: "/Proect",
     details: "https://www.youtube.com/watch?v=H7l-RaBRygU",
     discription:
@@ -33,7 +33,7 @@ export const CardItems = [
   },
   {
     title: "File Import Plugin",
-    thumbnail: "/thumbnail/project4-img.png",
+    thumbnail: "/portfolio_game/thumbnail/project4-img.png",
     url: "/Proect",
     details: "https://www.csee.umbc.edu/~olano/491/assn5.html",
     discription:
@@ -41,7 +41,7 @@ export const CardItems = [
   },
   {
     title: "Material Node",
-    thumbnail: "/thumbnail/project5-img.png",
+    thumbnail: "/portfolio_game/thumbnail/project5-img.png",
     url: "/Proect",
     details: "https://www.csee.umbc.edu/~olano/491/assn6.html",
     discription:
@@ -49,7 +49,7 @@ export const CardItems = [
   },
   {
     title: "Float Textures",
-    thumbnail: "/thumbnail/project6-img.png",
+    thumbnail: "/portfolio_game/thumbnail/project6-img.png",
     url: "/Proect",
     details: "https://www.csee.umbc.edu/~olano/491/assn7.html",
     discription:

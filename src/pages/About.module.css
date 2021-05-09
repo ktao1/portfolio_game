@@ -1,0 +1,52 @@
+.container {
+  width: 100%;
+  height: 100vh;
+  background-color: #252729;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  font-weight: 400;
+}
+
+.img {
+  padding: 10px;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  display: block;
+}
+
+.intro {
+}
+
+.skills {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.skills h3,
+.skills p {
+  text-align: center;
+  margin: 0;
+  padding: 5px 10px;
+}
+
+.light {
+  font-weight: 400;
+}
+
+.project {
+  width: 100%;
+  height: 100%;
+}
+
+.card {
+  width: 100%;
+  height: 100%;
+  background-color: green;
+}
+
+.cardImage {
+  width: 8vw;
+  height: 10vh;
+}

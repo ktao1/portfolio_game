@@ -14,9 +14,9 @@ export const NavbarItems = [
     url: "/portfolio_game/Project",
     cName: "nav-links",
   },
-  {
-    title: "Contact Me",
-    url: "/portfolio_game/ContactMe",
-    cName: "nav-links",
-  },
+  // {
+  //   title: "Contact Me",
+  //   url: "/portfolio_game/ContactMe",
+  //   cName: "nav-links",
+  // },
 ];

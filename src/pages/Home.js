@@ -14,7 +14,7 @@ function Home() {
             I'm <span>Kecheng</span>,
             <br />a Game Programmer.
           </h1>
-          <Link to="/About">More About me</Link>
+          <Link to="/portfolio_game/About">More About me</Link>
         </div>
       </div>
 
