@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/portfolio_game/static/css/main.7590cd95.chunk.css",
-    "main.js": "/portfolio_game/static/js/main.9377f21e.chunk.js",
-    "main.js.map": "/portfolio_game/static/js/main.9377f21e.chunk.js.map",
+    "main.css": "/portfolio_game/static/css/main.ea6802e5.chunk.css",
+    "main.js": "/portfolio_game/static/js/main.2a375c50.chunk.js",
+    "main.js.map": "/portfolio_game/static/js/main.2a375c50.chunk.js.map",
     "runtime-main.js": "/portfolio_game/static/js/runtime-main.858d9ac8.js",
     "runtime-main.js.map": "/portfolio_game/static/js/runtime-main.858d9ac8.js.map",
-    "static/js/2.e7e36bc6.chunk.js": "/portfolio_game/static/js/2.e7e36bc6.chunk.js",
-    "static/js/2.e7e36bc6.chunk.js.map": "/portfolio_game/static/js/2.e7e36bc6.chunk.js.map",
+    "static/js/2.a8edf844.chunk.js": "/portfolio_game/static/js/2.a8edf844.chunk.js",
+    "static/js/2.a8edf844.chunk.js.map": "/portfolio_game/static/js/2.a8edf844.chunk.js.map",
     "index.html": "/portfolio_game/index.html",
-    "static/css/main.7590cd95.chunk.css.map": "/portfolio_game/static/css/main.7590cd95.chunk.css.map",
-    "static/js/2.e7e36bc6.chunk.js.LICENSE.txt": "/portfolio_game/static/js/2.e7e36bc6.chunk.js.LICENSE.txt"
+    "static/css/main.ea6802e5.chunk.css.map": "/portfolio_game/static/css/main.ea6802e5.chunk.css.map",
+    "static/js/2.a8edf844.chunk.js.LICENSE.txt": "/portfolio_game/static/js/2.a8edf844.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.858d9ac8.js",
-    "static/js/2.e7e36bc6.chunk.js",
-    "static/css/main.7590cd95.chunk.css",
-    "static/js/main.9377f21e.chunk.js"
+    "static/js/2.a8edf844.chunk.js",
+    "static/css/main.ea6802e5.chunk.css",
+    "static/js/main.2a375c50.chunk.js"
   ]
 }
