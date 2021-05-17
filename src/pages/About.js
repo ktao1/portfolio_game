@@ -23,9 +23,9 @@ function About() {
         <h2 className={classes.padding2}>Skill:</h2>
         <div className={classes.skills}>
           <div className={classes.skillCard}>
-            <h3>Game Engin</h3>
+            <h3>Game Engine</h3>
             <p>Unity</p>
-            <p>Unreal Engin 4</p>
+            <p>Unreal Engine 4</p>
           </div>
           <div>
             <h3>Programming Language</h3>
@@ -36,7 +36,6 @@ function About() {
           <div>
             <h3>Source Control</h3>
             <p>GitHub</p>
-            <p>Unreal Engin 4</p>
           </div>
           <div>
             <h3>IDE</h3>
@@ -60,7 +59,13 @@ function About() {
       </div>
       <div className={classes.project}>
         <h2 className={classes.padding2}>Project:</h2>
-        <ProjectPageCard />
+        <Link to="/portfolio_game/Project">View My Project</Link>
+      </div>
+      <div className={classes.project}>
+        <h2 className={classes.padding2}>Resume:</h2>
+        <a href="/portfolio_game/resume/Resume_Kecheng Tao_G.pdf">
+          View My Resume
+        </a>
       </div>
     </div>
   );

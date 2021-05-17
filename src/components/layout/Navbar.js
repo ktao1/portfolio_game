@@ -30,6 +30,14 @@ function Navebar() {
             </li>
           );
         })}
+        <li>
+          <a
+            className="nav-links"
+            href="/portfolio_game/resume/Resume_Kecheng Tao_G.pdf"
+          >
+            Resume
+          </a>
+        </li>
       </ul>
     </nav>
   );

@@ -15,8 +15,8 @@ export const NavbarItems = [
     cName: "nav-links",
   },
   // {
-  //   title: "Contact Me",
-  //   url: "/portfolio_game/ContactMe",
+  //   title: "Resume",
+  //   url: "/portfolio_game/resume/Resume_Kecheng Tao_G.pdf",
   //   cName: "nav-links",
   // },
 ];
